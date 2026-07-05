@@ -1,0 +1,5 @@
+customer_id,name,email,city,tier
+2,Bob,bob@example.com,Pune,Platinum
+4,David,david.new@example.com,Chennai,Gold
+6,Farah,farah@example.com,Bengaluru,Gold
+7,Gopal,gopal@example.com,Kolkata,Standard

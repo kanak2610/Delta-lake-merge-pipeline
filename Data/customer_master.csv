@@ -1,0 +1,7 @@
+customer_id,name,email,city,tier
+1,Alice,alice@example.com,Jaipur,
+2,Bob,bob@example.com,Mumbai,Gold
+3,Charlie,,Delhi,Silver
+4,David,david@example.com,Chennai,Gold
+5,Eva,eva@example.com,Jaipur,Silver
+5,Eva,eva@example.com,Jaipur,Silver
